@@ -117,6 +117,17 @@ type : cd Hello-Rails-Back-End
 
 Type : bundle install
 
+Type : npm i
+
+Then change the username and password within the database.yml and set yours.
+
+(In your terminal)
+Run:
+
+- rails db:create
+- rails db:migrate
+- rails s -p 3001
+
 ### Usage
 
 To run the project, execute the following command:
