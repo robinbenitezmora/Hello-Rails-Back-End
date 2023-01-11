@@ -1,24 +1,153 @@
-# README
+<a name="readme-top"></a>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-Things you may want to cover:
+Modify this file to match your project and remove sections that don't apply.
 
-* Ruby version
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
 
-* System dependencies
+After you're finished please remove all the comments and instructions!
+-->
 
-* Configuration
 
-* Database creation
+<!-- TABLE OF CONTENTS -->
 
-* Database initialization
+# 📗 Table of Contents
 
-* How to run the test suite
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-* Services (job queues, cache servers, search engines, etc.)
+<!-- PROJECT DESCRIPTION -->
 
-* Deployment instructions
+# 📖 Hello Rails Back End <a name="about-project"></a>
 
-* ...
+
+**Hello Rails Back End** is a simple back end for the Hello Rails Front End project. It is a simple API that allows users to create, read, update and delete posts. It is built with Ruby on Rails and Postgresql.
+
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+> Ruby on Rails / Postresql
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://www.ruby-lang.org/en/">ruby on rails server</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- Create, Read, greetings in differente languages.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Media and Live Demo <a name="presentation"></a>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+have installed Ruby on your system check with Ruby -v
+
+In order to run this project you need:
+
+### Setup
+
+Clone this repository to your desired folder:
+
+> git clone git@github.com:robinbenitezmora/Hello-Rails-Back-End.git
+
+### Install
+
+type : cd Hello-Rails-Back-End
+
+
+Type : bundle install
+
+### Usage
+
+To run the project, execute the following command:
+
+  rails server
+
+
+<!-- AUTHORS -->
+
+## 👥 Author <a name="authors"></a>
+
+
+👤 **Robin Benitez Mora **
+
+- GitHub: [@robinbenitezmora](https://github.com/robinbenitezmora)
+- Twitter: [@Mecanico_Robin](https://twitter.com/mecanico_robin)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/robin-benitez-mora/)
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Acknowlegments
+
+> Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella).
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
